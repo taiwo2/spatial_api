@@ -1,0 +1,2 @@
+module SpatialApiHelper
+end

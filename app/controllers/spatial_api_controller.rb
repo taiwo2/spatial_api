@@ -1,0 +1,2 @@
+class SpatialApiController < ApplicationController
+end
